@@ -14,6 +14,7 @@ public class Pattern04 {
    * *****
    * *******
    * *********
+   * code is right for triangle pattern but above pattern is incorrect
    */
 
   void triangle() {
@@ -34,6 +35,7 @@ public class Pattern04 {
    * *****
    * ***
    * *
+   * code is right for triangle pattern but above pattern is incorrect
    */
 
   void revTriangle() {
