@@ -2,7 +2,7 @@ package Strings;
 
 public class LexicographicalOrder {
   public static void main(String[] args) {
-    String s = "abab";
+    String s = "ababaaa";
     System.out.println(Lexicographical(s));
   }
 
